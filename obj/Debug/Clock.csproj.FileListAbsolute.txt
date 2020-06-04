@@ -1,0 +1,9 @@
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.Clock.resources
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\bin\Debug\Clock.exe.config
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\bin\Debug\Clock.exe
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\bin\Debug\Clock.pdb
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.exe
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.pdb
