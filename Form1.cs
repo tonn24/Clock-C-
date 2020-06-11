@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Clock
-{
+{   
     public partial class Clock : Form
     {
         Timer timer = new Timer();
@@ -53,21 +53,20 @@ namespace Clock
             int hour = DateTime.Now.Hour;
 
             int[] handCoord = new int[2];
-
-            graphics.Clear(Color.White);
+            graphics.Clear(Color.Ivory);
 
             //joonista ring
             graphics.DrawEllipse(new Pen(Color.Black, 1f), 0, 0, width, height);
 
             //joonista joonis
-            graphics.DrawString("12", new Font("Times New Roman", 14), Brushes.Black, new Point(140, 2));
-            graphics.DrawString("3", new Font("Times New Roman", 14), Brushes.Black, new Point(286, 140));
-            graphics.DrawString("6", new Font("Times New Roman", 14), Brushes.Black, new Point(142, 282));
-            graphics.DrawString("9", new Font("Times New Roman", 14), Brushes.Black, new Point(0, 140));
+            graphics.DrawString("12", new Font("Times New Roman", 14), Brushes.SaddleBrown, new Point(140, 2));
+            graphics.DrawString("3", new Font("Times New Roman", 14), Brushes.SaddleBrown, new Point(286, 140));
+            graphics.DrawString("6", new Font("Times New Roman", 14), Brushes.SaddleBrown, new Point(142, 282));
+            graphics.DrawString("9", new Font("Times New Roman", 14), Brushes.SaddleBrown, new Point(0, 140));
 
             //sekundi seier
             handCoord = msCoord(seconds, secHand);
-            graphics.DrawLine(new Pen(Color.Red, 1f), new Point(cx, cy), new Point(handCoord[0], handCoord[1]));
+            graphics.DrawLine(new Pen(Color.Purple, 1f), new Point(cx, cy), new Point(handCoord[0], handCoord[1]));
 
             //minuti seier
             handCoord = msCoord(minutes, minHand);

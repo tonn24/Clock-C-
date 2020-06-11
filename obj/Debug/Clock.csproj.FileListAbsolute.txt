@@ -7,3 +7,4 @@ C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\bin\Debug\Clock.exe
 C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\bin\Debug\Clock.pdb
 C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.exe
 C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.pdb
+C:\Users\Tõnn\Desktop\Programmeerimine\Projects\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
